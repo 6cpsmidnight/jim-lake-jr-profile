@@ -1,4 +1,4 @@
 # Jim Lake Jr. Profile
  A basic HTML webpage profile regarding information on Jim “James” Lake Jr.
  
- ![alt text](/global/images/Jim%20Lake%20Jr.png)
+ ![alt text](/global/images/jim-lake-jr.png)
